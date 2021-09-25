@@ -1,0 +1,25 @@
+{
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "Roxy Hut",
+      "address": "Rehla",
+      "rating": "4.1",
+      "email": "Roxy-hut.test@gmail.com "
+    },
+    {
+      "name": "Saurabh Restro",
+      "address": "Rehla",
+      "email": "Rehla.test@gmail.com ",
+      "rating": "2.3",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "RazzyShown Restro",
+      "address": "B.more",
+      "rating": "3.4",
+      "email": "Pizelrestogrop.test@gmail.com "
+    }
+  ]
+}
